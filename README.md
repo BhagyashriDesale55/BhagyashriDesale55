@@ -31,6 +31,8 @@ Welcome to my GitHub profile! I'm an enthusiastic Computer Science student with 
   <a href="https://www.instagram.com/bhagyashri._.desale?igsh=MWVzcHVzZ3F6YzMyZw==" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
+  <a href="https://x.com/Bhagya99349439?t=ETu4Rd8bIcZo9BohcJuz0w&s=09" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40"" />
 </p>
 
 ## 🚀 Goals:
